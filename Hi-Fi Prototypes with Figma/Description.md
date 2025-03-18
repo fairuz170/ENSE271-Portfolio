@@ -11,4 +11,6 @@ At least one page features a Smart Animate transform (e.g., size change).
 Figma note highlights where Smart Animate is applied.
 **Visual & Design Elements:**
 House-specific colors and themes enhance the experience.
-Images sourced from Creative Commons or educational purposes.
+Images sourced from Creative Commons or educational purposes
+
+![image alt](https://github.com/fairuz170/ENSE271-Portfolio/blob/5f0f1cf691e3edf7b3c83e4f25297d28428cf737/Hi-Fi%20Prototypes%20with%20Figma/Raw%20design%20file.png)
