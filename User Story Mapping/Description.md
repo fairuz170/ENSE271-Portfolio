@@ -18,6 +18,6 @@ Markdown features utilized for formatting.
 ![image alt](https://github.com/fairuz170/ENSE271-Portfolio/blob/ae95c56d7306288501e06e7437da50324e0f85ad/User%20Story%20Mapping/ExFeature3.png)
 
 # Main:
-! [image alt](https://github.com/fairuz170/ENSE271-Portfolio/blob/ae95c56d7306288501e06e7437da50324e0f85ad/User%20Story%20Mapping/StoriesOB1.png)
-! [image alt](https://github.com/fairuz170/ENSE271-Portfolio/blob/ae95c56d7306288501e06e7437da50324e0f85ad/User%20Story%20Mapping/StoriesOB2.png)
+! [image alt](https://github.com/fairuz170/ENSE271Portfolio/blob/ae95c56d7306288501e06e7437da50324e0f85ad/User%20Story%20Mapping/StoriesOB1.png)
+! [image alt](https://github.com/fairuz170/ENSE271Portfolio/blob/ae95c56d7306288501e06e7437da50324e0f85ad/User%20Story%20Mapping/StoriesOB2.png)
 
